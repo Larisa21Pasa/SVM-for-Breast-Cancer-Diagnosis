@@ -1,0 +1,103 @@
+C:\Users\Husman Carla\Desktop\Facultate\An 4\Inteligenta artificiala\Proiect IA\BreastCancer\bin\Debug\BreastCancer.exe.config
+C:\Users\Husman Carla\Desktop\Facultate\An 4\Inteligenta artificiala\Proiect IA\BreastCancer\bin\Debug\BreastCancer.exe
+C:\Users\Husman Carla\Desktop\Facultate\An 4\Inteligenta artificiala\Proiect IA\BreastCancer\bin\Debug\BreastCancer.pdb
+C:\Users\Husman Carla\Desktop\Facultate\An 4\Inteligenta artificiala\Proiect IA\BreastCancer\obj\Debug\BreastCancer.csproj.AssemblyReference.cache
+C:\Users\Husman Carla\Desktop\Facultate\An 4\Inteligenta artificiala\Proiect IA\BreastCancer\obj\Debug\BreastCancer.Properties.Resources.resources
+C:\Users\Husman Carla\Desktop\Facultate\An 4\Inteligenta artificiala\Proiect IA\BreastCancer\obj\Debug\BreastCancer.csproj.GenerateResource.cache
+C:\Users\Husman Carla\Desktop\Facultate\An 4\Inteligenta artificiala\Proiect IA\BreastCancer\obj\Debug\BreastCancer.csproj.CoreCompileInputs.cache
+C:\Users\Husman Carla\Desktop\Facultate\An 4\Inteligenta artificiala\Proiect IA\BreastCancer\obj\Debug\BreastCancer.exe
+C:\Users\Husman Carla\Desktop\Facultate\An 4\Inteligenta artificiala\Proiect IA\BreastCancer\obj\Debug\BreastCancer.pdb
+C:\Users\Husman Carla\Desktop\Facultate\An 4\Inteligenta artificiala\Proiect IA\BreastCancer\obj\Debug\BreastCancer.Form1.resources
+D:\FACULTATE\AN 4\IA\Proiect-IA\Proiect IA\BreastCancer\bin\Debug\BreastCancer.exe.config
+D:\FACULTATE\AN 4\IA\Proiect-IA\Proiect IA\BreastCancer\bin\Debug\BreastCancer.exe
+D:\FACULTATE\AN 4\IA\Proiect-IA\Proiect IA\BreastCancer\bin\Debug\BreastCancer.pdb
+D:\FACULTATE\AN 4\IA\Proiect-IA\Proiect IA\BreastCancer\obj\Debug\BreastCancer.csproj.AssemblyReference.cache
+D:\FACULTATE\AN 4\IA\Proiect-IA\Proiect IA\BreastCancer\obj\Debug\BreastCancer.csproj.SuggestedBindingRedirects.cache
+D:\FACULTATE\AN 4\IA\Proiect-IA\Proiect IA\BreastCancer\obj\Debug\BreastCancer.Form1.resources
+D:\FACULTATE\AN 4\IA\Proiect-IA\Proiect IA\BreastCancer\obj\Debug\BreastCancer.Properties.Resources.resources
+D:\FACULTATE\AN 4\IA\Proiect-IA\Proiect IA\BreastCancer\obj\Debug\BreastCancer.csproj.GenerateResource.cache
+D:\FACULTATE\AN 4\IA\Proiect-IA\Proiect IA\BreastCancer\obj\Debug\BreastCancer.csproj.CoreCompileInputs.cache
+D:\FACULTATE\AN 4\IA\Proiect-IA\Proiect IA\BreastCancer\obj\Debug\BreastCancer.exe
+D:\FACULTATE\AN 4\IA\Proiect-IA\Proiect IA\BreastCancer\obj\Debug\BreastCancer.pdb
+C:\Users\andre\Desktop\Proiect-IA\Proiect-IA\Proiect IA\BreastCancer\obj\Debug\BreastCancer.csproj.AssemblyReference.cache
+C:\Users\andre\Desktop\Proiect-IA\Proiect-IA\Proiect IA\BreastCancer\obj\Debug\BreastCancer.Form1.resources
+C:\Users\andre\Desktop\Proiect-IA\Proiect-IA\Proiect IA\BreastCancer\obj\Debug\BreastCancer.Properties.Resources.resources
+C:\Users\andre\Desktop\Proiect-IA\Proiect-IA\Proiect IA\BreastCancer\obj\Debug\BreastCancer.csproj.GenerateResource.cache
+C:\Users\andre\Desktop\Proiect-IA\Proiect-IA\Proiect IA\BreastCancer\obj\Debug\BreastCancer.csproj.CoreCompileInputs.cache
+C:\Users\andre\Desktop\Proiect-IA\Proiect-IA\Proiect IA\BreastCancer\obj\Debug\BreastCancer.exe
+C:\Users\andre\Desktop\Proiect-IA\Proiect-IA\Proiect IA\BreastCancer\obj\Debug\BreastCancer.pdb
+C:\Users\andre\Desktop\Proiect-IA\Proiect-IA\Proiect IA\BreastCancer\bin\Debug\BreastCancer.exe.config
+C:\Users\andre\Desktop\Proiect-IA\Proiect-IA\Proiect IA\BreastCancer\bin\Debug\BreastCancer.exe
+C:\Users\andre\Desktop\Proiect-IA\Proiect-IA\Proiect IA\BreastCancer\bin\Debug\BreastCancer.pdb
+C:\Users\Husman Carla\Downloads\Proiect-IA\Proiect-IA\Proiect IA\BreastCancer\bin\Debug\BreastCancer.exe.config
+C:\Users\Husman Carla\Downloads\Proiect-IA\Proiect-IA\Proiect IA\BreastCancer\bin\Debug\BreastCancer.exe
+C:\Users\Husman Carla\Downloads\Proiect-IA\Proiect-IA\Proiect IA\BreastCancer\bin\Debug\BreastCancer.pdb
+C:\Users\Husman Carla\Downloads\Proiect-IA\Proiect-IA\Proiect IA\BreastCancer\obj\Debug\BreastCancer.csproj.AssemblyReference.cache
+C:\Users\Husman Carla\Downloads\Proiect-IA\Proiect-IA\Proiect IA\BreastCancer\obj\Debug\BreastCancer.Form1.resources
+C:\Users\Husman Carla\Downloads\Proiect-IA\Proiect-IA\Proiect IA\BreastCancer\obj\Debug\BreastCancer.Properties.Resources.resources
+C:\Users\Husman Carla\Downloads\Proiect-IA\Proiect-IA\Proiect IA\BreastCancer\obj\Debug\BreastCancer.csproj.GenerateResource.cache
+C:\Users\Husman Carla\Downloads\Proiect-IA\Proiect-IA\Proiect IA\BreastCancer\obj\Debug\BreastCancer.csproj.CoreCompileInputs.cache
+C:\Users\Husman Carla\Downloads\Proiect-IA\Proiect-IA\Proiect IA\BreastCancer\obj\Debug\BreastCancer.exe
+C:\Users\Husman Carla\Downloads\Proiect-IA\Proiect-IA\Proiect IA\BreastCancer\obj\Debug\BreastCancer.pdb
+C:\Users\Husman Carla\Downloads\Proiect IA\BreastCancer\bin\Debug\BreastCancer.exe.config
+C:\Users\Husman Carla\Downloads\Proiect IA\BreastCancer\bin\Debug\BreastCancer.exe
+C:\Users\Husman Carla\Downloads\Proiect IA\BreastCancer\bin\Debug\BreastCancer.pdb
+C:\Users\Husman Carla\Downloads\Proiect IA\BreastCancer\obj\Debug\BreastCancer.csproj.AssemblyReference.cache
+C:\Users\Husman Carla\Downloads\Proiect IA\BreastCancer\obj\Debug\BreastCancer.Form1.resources
+C:\Users\Husman Carla\Downloads\Proiect IA\BreastCancer\obj\Debug\BreastCancer.Properties.Resources.resources
+C:\Users\Husman Carla\Downloads\Proiect IA\BreastCancer\obj\Debug\BreastCancer.csproj.GenerateResource.cache
+C:\Users\Husman Carla\Downloads\Proiect IA\BreastCancer\obj\Debug\BreastCancer.csproj.CoreCompileInputs.cache
+C:\Users\Husman Carla\Downloads\Proiect IA\BreastCancer\obj\Debug\BreastCancer.exe
+C:\Users\Husman Carla\Downloads\Proiect IA\BreastCancer\obj\Debug\BreastCancer.pdb
+C:\Users\llari\Downloads\BreastCancer-20240110T182406Z-001\BreastCancer\obj\Debug\BreastCancer.csproj.AssemblyReference.cache
+C:\Users\llari\Downloads\BreastCancer-20240110T182406Z-001\BreastCancer\obj\Debug\BreastCancer.csproj.SuggestedBindingRedirects.cache
+C:\Users\llari\Downloads\BreastCancer-20240110T182406Z-001\BreastCancer\obj\Debug\BreastCancer.Form1.resources
+C:\Users\llari\Downloads\BreastCancer-20240110T182406Z-001\BreastCancer\obj\Debug\BreastCancer.Properties.Resources.resources
+C:\Users\llari\Downloads\BreastCancer-20240110T182406Z-001\BreastCancer\obj\Debug\BreastCancer.csproj.GenerateResource.cache
+C:\Users\llari\Downloads\BreastCancer-20240110T182406Z-001\BreastCancer\obj\Debug\BreastCancer.csproj.CoreCompileInputs.cache
+C:\Users\llari\Downloads\BreastCancer-20240110T182406Z-001\BreastCancer\obj\Debug\BreastCancer.exe
+C:\Users\llari\Downloads\BreastCancer-20240110T182406Z-001\BreastCancer\obj\Debug\BreastCancer.pdb
+C:\Users\llari\Downloads\BreastCancer-20240110T182406Z-001\BreastCancer\bin\Debug\BreastCancer.exe.config
+C:\Users\llari\Downloads\BreastCancer-20240110T182406Z-001\BreastCancer\bin\Debug\BreastCancer.exe
+C:\Users\llari\Downloads\BreastCancer-20240110T182406Z-001\BreastCancer\bin\Debug\BreastCancer.pdb
+C:\Users\Husman Carla\Downloads\BreastCancer-20240110T182406Z-001\BreastCancer\bin\Debug\BreastCancer.exe.config
+C:\Users\Husman Carla\Downloads\BreastCancer-20240110T182406Z-001\BreastCancer\bin\Debug\BreastCancer.exe
+C:\Users\Husman Carla\Downloads\BreastCancer-20240110T182406Z-001\BreastCancer\bin\Debug\BreastCancer.pdb
+C:\Users\Husman Carla\Downloads\BreastCancer-20240110T182406Z-001\BreastCancer\obj\Debug\BreastCancer.csproj.AssemblyReference.cache
+C:\Users\Husman Carla\Downloads\BreastCancer-20240110T182406Z-001\BreastCancer\obj\Debug\BreastCancer.Form1.resources
+C:\Users\Husman Carla\Downloads\BreastCancer-20240110T182406Z-001\BreastCancer\obj\Debug\BreastCancer.Properties.Resources.resources
+C:\Users\Husman Carla\Downloads\BreastCancer-20240110T182406Z-001\BreastCancer\obj\Debug\BreastCancer.csproj.GenerateResource.cache
+C:\Users\Husman Carla\Downloads\BreastCancer-20240110T182406Z-001\BreastCancer\obj\Debug\BreastCancer.csproj.CoreCompileInputs.cache
+C:\Users\Husman Carla\Downloads\BreastCancer-20240110T182406Z-001\BreastCancer\obj\Debug\BreastCancer.exe
+C:\Users\Husman Carla\Downloads\BreastCancer-20240110T182406Z-001\BreastCancer\obj\Debug\BreastCancer.pdb
+D:\FACULTATE\AN 4\IA\CARLA\BreastCancer-20240110T182406Z-001\BreastCancer-20240110T182406Z-001\BreastCancer\bin\Debug\BreastCancer.exe.config
+D:\FACULTATE\AN 4\IA\CARLA\BreastCancer-20240110T182406Z-001\BreastCancer-20240110T182406Z-001\BreastCancer\bin\Debug\BreastCancer.exe
+D:\FACULTATE\AN 4\IA\CARLA\BreastCancer-20240110T182406Z-001\BreastCancer-20240110T182406Z-001\BreastCancer\bin\Debug\BreastCancer.pdb
+D:\FACULTATE\AN 4\IA\CARLA\BreastCancer-20240110T182406Z-001\BreastCancer-20240110T182406Z-001\BreastCancer\obj\Debug\BreastCancer.csproj.AssemblyReference.cache
+D:\FACULTATE\AN 4\IA\CARLA\BreastCancer-20240110T182406Z-001\BreastCancer-20240110T182406Z-001\BreastCancer\obj\Debug\BreastCancer.csproj.SuggestedBindingRedirects.cache
+D:\FACULTATE\AN 4\IA\CARLA\BreastCancer-20240110T182406Z-001\BreastCancer-20240110T182406Z-001\BreastCancer\obj\Debug\BreastCancer.Form1.resources
+D:\FACULTATE\AN 4\IA\CARLA\BreastCancer-20240110T182406Z-001\BreastCancer-20240110T182406Z-001\BreastCancer\obj\Debug\BreastCancer.Properties.Resources.resources
+D:\FACULTATE\AN 4\IA\CARLA\BreastCancer-20240110T182406Z-001\BreastCancer-20240110T182406Z-001\BreastCancer\obj\Debug\BreastCancer.csproj.GenerateResource.cache
+D:\FACULTATE\AN 4\IA\CARLA\BreastCancer-20240110T182406Z-001\BreastCancer-20240110T182406Z-001\BreastCancer\obj\Debug\BreastCancer.csproj.CoreCompileInputs.cache
+D:\FACULTATE\AN 4\IA\CARLA\BreastCancer-20240110T182406Z-001\BreastCancer-20240110T182406Z-001\BreastCancer\obj\Debug\BreastCancer.exe
+D:\FACULTATE\AN 4\IA\CARLA\BreastCancer-20240110T182406Z-001\BreastCancer-20240110T182406Z-001\BreastCancer\obj\Debug\BreastCancer.pdb
+C:\Users\andre\Downloads\BreastCancer-20240110T182406Z-001\BreastCancer-20240110T182406Z-001\BreastCancer-20240110T182406Z-001\BreastCancer\bin\Debug\BreastCancer.exe.config
+C:\Users\andre\Downloads\BreastCancer-20240110T182406Z-001\BreastCancer-20240110T182406Z-001\BreastCancer-20240110T182406Z-001\BreastCancer\bin\Debug\BreastCancer.exe
+C:\Users\andre\Downloads\BreastCancer-20240110T182406Z-001\BreastCancer-20240110T182406Z-001\BreastCancer-20240110T182406Z-001\BreastCancer\bin\Debug\BreastCancer.pdb
+C:\Users\andre\Downloads\BreastCancer-20240110T182406Z-001\BreastCancer-20240110T182406Z-001\BreastCancer-20240110T182406Z-001\BreastCancer\obj\Debug\BreastCancer.csproj.AssemblyReference.cache
+C:\Users\andre\Downloads\BreastCancer-20240110T182406Z-001\BreastCancer-20240110T182406Z-001\BreastCancer-20240110T182406Z-001\BreastCancer\obj\Debug\BreastCancer.Form1.resources
+C:\Users\andre\Downloads\BreastCancer-20240110T182406Z-001\BreastCancer-20240110T182406Z-001\BreastCancer-20240110T182406Z-001\BreastCancer\obj\Debug\BreastCancer.Properties.Resources.resources
+C:\Users\andre\Downloads\BreastCancer-20240110T182406Z-001\BreastCancer-20240110T182406Z-001\BreastCancer-20240110T182406Z-001\BreastCancer\obj\Debug\BreastCancer.csproj.GenerateResource.cache
+C:\Users\andre\Downloads\BreastCancer-20240110T182406Z-001\BreastCancer-20240110T182406Z-001\BreastCancer-20240110T182406Z-001\BreastCancer\obj\Debug\BreastCancer.csproj.CoreCompileInputs.cache
+C:\Users\andre\Downloads\BreastCancer-20240110T182406Z-001\BreastCancer-20240110T182406Z-001\BreastCancer-20240110T182406Z-001\BreastCancer\obj\Debug\BreastCancer.exe
+C:\Users\andre\Downloads\BreastCancer-20240110T182406Z-001\BreastCancer-20240110T182406Z-001\BreastCancer-20240110T182406Z-001\BreastCancer\obj\Debug\BreastCancer.pdb
+C:\Users\Husman Carla\Desktop\Facultate\An 4\Inteligenta artificiala\Varianta Finala\BreastCancer\bin\Debug\BreastCancer.exe.config
+C:\Users\Husman Carla\Desktop\Facultate\An 4\Inteligenta artificiala\Varianta Finala\BreastCancer\bin\Debug\BreastCancer.exe
+C:\Users\Husman Carla\Desktop\Facultate\An 4\Inteligenta artificiala\Varianta Finala\BreastCancer\bin\Debug\BreastCancer.pdb
+C:\Users\Husman Carla\Desktop\Facultate\An 4\Inteligenta artificiala\Varianta Finala\BreastCancer\obj\Debug\BreastCancer.csproj.AssemblyReference.cache
+C:\Users\Husman Carla\Desktop\Facultate\An 4\Inteligenta artificiala\Varianta Finala\BreastCancer\obj\Debug\BreastCancer.Form1.resources
+C:\Users\Husman Carla\Desktop\Facultate\An 4\Inteligenta artificiala\Varianta Finala\BreastCancer\obj\Debug\BreastCancer.Properties.Resources.resources
+C:\Users\Husman Carla\Desktop\Facultate\An 4\Inteligenta artificiala\Varianta Finala\BreastCancer\obj\Debug\BreastCancer.csproj.GenerateResource.cache
+C:\Users\Husman Carla\Desktop\Facultate\An 4\Inteligenta artificiala\Varianta Finala\BreastCancer\obj\Debug\BreastCancer.csproj.CoreCompileInputs.cache
+C:\Users\Husman Carla\Desktop\Facultate\An 4\Inteligenta artificiala\Varianta Finala\BreastCancer\obj\Debug\BreastCancer.exe
+C:\Users\Husman Carla\Desktop\Facultate\An 4\Inteligenta artificiala\Varianta Finala\BreastCancer\obj\Debug\BreastCancer.pdb

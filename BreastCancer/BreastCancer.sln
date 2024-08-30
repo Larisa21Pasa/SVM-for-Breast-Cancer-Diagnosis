@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34202.233
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BreastCancer", "BreastCancer.csproj", "{054BCF5F-887B-455B-AB93-E44DBD4108BE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestBreastCancer", "..\UnitTestBreastCancer\UnitTestBreastCancer.csproj", "{718134D1-90DE-44BD-8954-56E60069DB09}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{054BCF5F-887B-455B-AB93-E44DBD4108BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{054BCF5F-887B-455B-AB93-E44DBD4108BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{054BCF5F-887B-455B-AB93-E44DBD4108BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{054BCF5F-887B-455B-AB93-E44DBD4108BE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{718134D1-90DE-44BD-8954-56E60069DB09}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{718134D1-90DE-44BD-8954-56E60069DB09}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{718134D1-90DE-44BD-8954-56E60069DB09}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{718134D1-90DE-44BD-8954-56E60069DB09}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BC83AA5A-09CA-4B2B-9ED2-7526155C9F63}
+	EndGlobalSection
+EndGlobal
