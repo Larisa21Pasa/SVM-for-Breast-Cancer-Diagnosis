@@ -6,17 +6,17 @@ This project addresses a significant challenge in healthcare: optimizing breast 
 
 ## Dataset Description
 
-### Dataset Used: "Breast Cancer Wisconsin (Original)" 
+Dataset Used: "Breast Cancer Wisconsin (Original)" 
 
-### Number of Instances: 699
+Number of Instances: 699
 
-### Malignant Cases: 458 (65.6%)
+Malignant Cases: 458 (65.6%)
 
-### Benign Cases: 241 (34.5%)
+Benign Cases: 241 (34.5%)
 
-### Attributes: 11 (e.g., clump thickness, uniformity of cell size and shape, marginal adhesion, nuclear size)
+Attributes: 11 (e.g., clump thickness, uniformity of cell size and shape, marginal adhesion, nuclear size)
 
-### Purpose: These features are crucial for accurately identifying the types of tumors.
+Purpose: These features are crucial for accurately identifying the types of tumors.
 
 ## Methodology
 
