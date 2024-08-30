@@ -22,8 +22,9 @@ Purpose: These features are crucial for accurately identifying the types of tumo
 
 ## Classification Approach:
 
-### Method: One-versus-One Classification
-### Implementation: Training of a unique SVM model that evaluates each pair of classes separately, simplifying the classification process while maintaining high accuracy.
+Method: One-versus-One Classification
+
+Implementation: Training of a unique SVM model that evaluates each pair of classes separately, simplifying the classification process while maintaining high accuracy.
 
 ## SVM Implementation:
 
