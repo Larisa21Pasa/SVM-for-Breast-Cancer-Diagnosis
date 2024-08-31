@@ -51,4 +51,7 @@ Calculation of the margin (m)
 
 Verification that the sum of alphas and the class is 0
 
+
+!!! This is a team project developed during the 4th year of the Automatics and Computers program. !!!
+
 !!! My contribution to the project development includes code implementation—Genetic Algorithm—and documentation.
